@@ -17,4 +17,4 @@ Removed validation from input fields to allow html
 4.1.0 - Updated caption animation removal timing 
 4.1.1 - Added fields for second button on slides
 4.1.2 - Moving Repo to different website
-4.1.3 - PaArt two of Repository move
+4.1.3 - Part two of Repository move
