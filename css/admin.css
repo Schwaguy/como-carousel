@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+#comoslide_meta {
+    overflow: hidden;
+    padding-bottom: 1em;
+}
+#comoslide_meta p {
+    clear: both;
+	padding-bottom: 1em;
+	display: table;
+	width: 100%;
+}
+.comoslide-row-title {
+    display: table-cell;
+	font-weight: bold;
+	width: 20%;
+}
+.comoslide-row-content {
+	display: table-cell;
+	width: 89%;
+}
+.comoslide-row-content input,
+.comoslide-row-content textarea {
+	width: 100%;
+} 
+.comometa-row-content .inline,
+.comometa-row-content input.inline,
+.comometa-row-content input[type='text'].inline,
+.comometa-row-content input.inline[type='text'] {
+	display: inline !important;
+	width: auto !important;
+} 
+.comoslide-row-content label {
+    display: block;
+    line-height: 1.75em;
+}
